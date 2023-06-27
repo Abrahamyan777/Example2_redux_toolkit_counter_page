@@ -1,0 +1,8 @@
+.countView {
+    display: flex;
+    align-items: center;
+}
+
+.countView h1:nth-child(2) {
+    margin-left: 20px;
+}

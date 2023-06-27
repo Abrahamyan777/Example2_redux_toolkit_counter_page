@@ -1,0 +1,11 @@
+.App {
+  min-height: 100vh;
+  background: linear-gradient(#1f1f4f, #49498c);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+ul {
+  list-style: none;
+}

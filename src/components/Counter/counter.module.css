@@ -1,0 +1,18 @@
+.counter {
+    background: white;
+    border-radius: 20px;
+    padding: 20px;
+}
+
+.counter button {
+    border: none;
+    padding: 10px;
+    cursor: pointer;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.counter button:nth-child(2) {
+    border: none;
+    margin-left: 20px;
+}
